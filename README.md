@@ -1,6 +1,6 @@
 ### Hey! Judit here!
 
-👾I'm a computer enthusiast that started her journey at 9 years old tweaking the config.sys file in her parent’s 386 computer to be able to play Simon the Sorcerer.👾
+👾I'm a computer enthusiast that started her journey at 9 years old tweaking the config.sys file in her parent’s 386 computer to be able to play Simon the Sorcerer.👾\
 🌚Still with the same curiosity for the inner workings of things, passionate about music from both sides of the applause, amazed by both indie and AAA technological marvels.🌚
 
 #### I've just released a retro Point&Click funky portfolio! 
