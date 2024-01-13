@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! Judit here!
 
 <!--
 **juditk84/juditk84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
