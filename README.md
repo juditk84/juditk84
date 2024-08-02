@@ -13,4 +13,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/judit-calero-timoneda-
 You can also listen to my music on [Spotify](https://open.spotify.com/artist/6VDrSLjL3geT6arAzK3kny?si=QK2DIE0UQe6NBoAopUPhFw) and [SoundCloud](https://soundcloud.com/judit_k).\
 From February you'll also be able to read me on [SoundGirls](https://soundgirls.org).\
 \
-I'm open to work right now! Let me know if we can collaborate in any way :-)
+I'm currently working as a FS dev at La Natural Coopmunicació, but I'm happy to collaborate with other projects along the way :-)
