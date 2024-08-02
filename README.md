@@ -7,7 +7,7 @@
 I would love it if you checked it out ^^\
 [My funky portfolio](https://judit-retro-portfolio.vercel.app/)
 
-![image](https://github.com/juditk84/juditk84/assets/131674854/8ac6beea-fe4a-4529-8655-17b54ea49f62)   (haha not working now, I'm looking for another hosting site)
+![image](https://github.com/juditk84/juditk84/assets/131674854/8ac6beea-fe4a-4529-8655-17b54ea49f62)  
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/judit-calero-timoneda-77ba06287/) or read me on [Medium](https://medium.com/@judit.calero84).\
 You can also listen to my music on [Spotify](https://open.spotify.com/artist/6VDrSLjL3geT6arAzK3kny?si=QK2DIE0UQe6NBoAopUPhFw) and [SoundCloud](https://soundcloud.com/judit_k).\
