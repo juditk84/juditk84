@@ -5,7 +5,7 @@
 
 #### I've just released a retro Point&Click funky portfolio! 
 I would love it if you checked it out ^^\
-[My portfolio ^^](https://judit-retro-portfolio.vercel.app/)
+[My funky portfolio](https://judit-retro-portfolio.vercel.app/)
 
 ![image](https://github.com/juditk84/juditk84/assets/131674854/8ac6beea-fe4a-4529-8655-17b54ea49f62)   (haha not working now, I'm looking for another hosting site)
 
